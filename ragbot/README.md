@@ -12,7 +12,7 @@ MedQuery AI is a simple and responsive medical chatbot interface designed to ans
 
 1. Clone the repository
 ```bash
-git clone [Repo](https://github.com/Raghav-1303/medquery-ai)
+git clone https://github.com/Raghav-1303/medquery-ai
 cd medquery-ai/ragbot
 ```
 
