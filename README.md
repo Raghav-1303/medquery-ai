@@ -70,7 +70,7 @@ Follow these steps to run MedQuery AI locally.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/medquery-ai.git
+git clone https://github.com/Raghav-1303/medquery-ai.git
 cd medquery-ai
 ```
 

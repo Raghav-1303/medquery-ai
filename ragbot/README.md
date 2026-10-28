@@ -6,6 +6,8 @@ A modern AI-powered medical chatbot interface built with React and TypeScript, f
 
 MedQuery AI is a simple and responsive medical chatbot interface designed to answer health-related questions. It connects to a FastAPI backend powered by OpenAI, LangChain, and Qdrant to generate context-aware responses.
 
+![MedQuery AI Demo](../docs/images/landingpage.png)
+
 ## Getting Started
 
 1. Clone the repository
