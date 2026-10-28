@@ -227,7 +227,7 @@ I'm open to opportunities in **Python Development, Full-Stack Development, and G
 
 Feel free to connect with me for professional opportunities, project discussions, or collaborations.
 
-📧 **Email:** [your.raghava.m1001@gmail.com](mailto:raghava.m1001@gmail.com)
+📧 **Email:** [raghava.m1001@gmail.com](mailto:raghava.m1001@gmail.com)
 
 📞   **Phone:**[+1 972-383-9611]
 
